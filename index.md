@@ -44,7 +44,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 <!---- [Guy Emerson](https://www.languagesciences.cam.ac.uk/directory/guy-emerson), University of Cambridge-->
 <!--- [Natalie Schluter](https://natschluter.github.io/), Apple & IT University Copenhagen-->
-- [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University
+- [Ritesh Kumar](https://mbhs.in/), Dr. Bhimrao Ambedkar University
 - [Atul Kr. Ojha](https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/atulkumarojha/), SFI Insight Centre for Data Analytics, DSI, University of Galway
 - [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz), Ghent University
 - [Giovanni Da San Martino](https://scholar.google.fr/citations?user=URABLy0AAAAJ&hl=en), University of Padua
